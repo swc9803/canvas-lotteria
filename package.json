@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "gsap": "^3.11.4",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
@@ -23,6 +24,8 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-vue": "^8.0.3",
+    "firebase": "^9.15.0",
+    "firebase-tools": "^11.20.0",
     "prettier": "^2.4.1",
     "sass": "^1.57.1",
     "sass-loader": "^13.2.0"
